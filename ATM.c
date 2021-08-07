@@ -1,7 +1,6 @@
 ﻿#include <stdio.h>
 
 
-
 #define BOOL	    	int
 #define ACOUNT_INT  	{{1111,0}, {2222,0}, {3333,0}}
 #define MAX_ACOUNT  	3
@@ -384,11 +383,6 @@ void main()
 					break;
 			default:
 				;
-
-
 		}
-
-
 	}
 }
-
