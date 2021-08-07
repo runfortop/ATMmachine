@@ -2,7 +2,7 @@
 Simple ATM machine control code
 
 
-## ● code execution description
+## ● Code execution description
 
 **1. Input card**
 
@@ -107,3 +107,7 @@ And if you select End from all menus, you will return to the initial card entry 
 
 
 ## ● Download and Build
+
+Execute the link below to download the file and unzip it. Build and run the ATM.c file as a console application.
+
+Download link : https://github.com/runfortop/ATMmachine/archive/refs/heads/main.zip
