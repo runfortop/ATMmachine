@@ -8,11 +8,11 @@ Simple ATM machine control code
 The initial screen is shown below.
 The ATM Machine is waiting to confirm that the card has been inserted. Please select 1 if the card is fully inserted.
 
----
+```
 Welcome to ATM machine!
 Please insert card
 1. Yes, 2. NO =>_
----
+```
 
 **2. Input Pin number**
 This is the procedure to receive a PIN number after card insertion is completed.
