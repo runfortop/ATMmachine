@@ -2,7 +2,7 @@
 Simple ATM machine control code
 
 
-## ● Code Execution Description
+## ● Code execution description
 
 **1. Input card**
 
