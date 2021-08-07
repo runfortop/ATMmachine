@@ -102,6 +102,8 @@ num :_
 
 **8. End**
 
-And if you select Exit from all menus, you will return to the initial card entry verification process.
+And if you select End from all menus, you will return to the initial card entry verification process.
 
 
+
+## ● Download and Build
