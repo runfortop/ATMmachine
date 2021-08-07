@@ -1,7 +1,7 @@
 # ATMmachine
 Simple ATM machine control code
 
-### ● code execution description
+## ● code execution description
 
 The initial screen is shown below.
 The ATM Machine is waiting to confirm that the card has been inserted. Please select 1 if the card is fully inserted.
