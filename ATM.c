@@ -2,13 +2,13 @@
 
 
 
-#define BOOL		int
-#define ACOUNT_INT  {{1111,0}, {2222,0}, {3333,0}}
-#define MAX_ACOUNT	3
-#define ERROR		-100
-#define OK			100
-#define END			99
-#define	CUSTOM_INFO {0, 3, 9999}
+#define BOOL	    	int
+#define ACOUNT_INT  	{{1111,0}, {2222,0}, {3333,0}}
+#define MAX_ACOUNT  	3
+#define ERROR	    	-100
+#define OK	    	100
+#define END	     	99
+#define	CUSTOM_INFO 	{0, 3, 9999}
 
 typedef enum
 {
@@ -250,7 +250,7 @@ int balance()
 
 void main()
 {
-	BOOL		ret			= 0;
+	BOOL  ret = 0;
 	STEP_STATUS step_status = INIT_SCREEN;
 	
 
